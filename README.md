@@ -11,15 +11,7 @@
 > [!NOTE]
 > cool colors
 > `#A5E673` `#73E6BE` `#7378E6` `#E67373`
-
----
-
 - i have no clue what to put here
-- look at this cool bird
-
-    ![bird](https://i.imgur.com/b8JjQqZ.png)
-
-
 > [!WARNING]
 > Scary Windows 7!!!!!!.
 
