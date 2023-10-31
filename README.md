@@ -1,16 +1,26 @@
-### Hi there 👋
+# whats good bro
 
-<!--
-**MercuryMer/MercuryMer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!IMPORTANT]
+> when on linux, use "sudo rm -rf"
+> 
+> when on windows, use "del /s /q *.*"
 
-Here are some ideas to get you started:
+- [x] shat the bed?
+- [ ] cleaned the bed?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [!NOTE]
+> cool colors
+> `#A5E673` `#73E6BE` `#7378E6` `#E67373`
+
+---
+
+- i have no clue what to put here
+- look at this cool bird
+
+    ![bird](https://i.imgur.com/b8JjQqZ.png)
+
+
+> [!WARNING]
+> Scary Windows 7!!!!!!.
+
+![scary windows 7](https://github.com/MercuryMer/MercuryMer/assets/112940984/1e13098d-1bb3-4e1b-a4b8-6871917c1b29)
