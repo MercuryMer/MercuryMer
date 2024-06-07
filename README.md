@@ -16,3 +16,8 @@
 > Scary Windows 7!!!!!!.
 
 ![scary windows 7](https://github.com/MercuryMer/MercuryMer/assets/112940984/1e13098d-1bb3-4e1b-a4b8-6871917c1b29)
+
+
+```math
+\ce{$\unicode[goombafont; color:black; pointer-events: none; z-index: -1; position: fixed; bottom: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.2; background: url('https://raw.githubusercontent.com/MercuryMer/MercuryMer/main/flat.png');]{x0000}$}
+```
