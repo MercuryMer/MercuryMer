@@ -1,8 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:black; pointer-events: none; z-index: -1; position: fixed; bottom: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0,8; filter: blur(8px); background: url('https://raw.githubusercontent.com/MercuryMer/MercuryMer/main/flat.png');]{x0000}$}
-```
-
-
 # whats good bro
 
 > [!IMPORTANT]
